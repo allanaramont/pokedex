@@ -19,7 +19,7 @@ Clicando em qualquer animal, ele mostra os detalhes.
 
 ### Acessando a aplicação
 
-[Clique aqui para acessar](pokemon.desenvbr.com)
+[Clique aqui para acessar](https://pokemon.desenvbr.com)
 
 
 ## Configurando ambiente
